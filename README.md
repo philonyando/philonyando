@@ -1,4 +1,6 @@
 ### Hi there 👋
+⚡ Fun fact: I'm a Full Stack web Developer.
+📫 How to reach me: philipnairobi@gmail.com
 
 <!--
 **philonyando/philonyando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
