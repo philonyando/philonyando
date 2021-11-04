@@ -1,5 +1,6 @@
 ### Hi there 👋
-⚡ Fun fact: I'm a Full Stack web Developer.
+``` ⚡ Fun fact: I'm a Full Stack web Developer.```
+###
 📫 How to reach me: philipnairobi@gmail.com
 
 <!--
